@@ -1,0 +1,8 @@
+18:32:29 **** Incremental Build of configuration Debug for project HEYOWRLD ****
+Info: Internal Builder is used for build
+g++ -o HEYOWRLD.exe "src\\HEYOWRLD.o" 
+c:/mingw/bin/../lib/gcc/mingw32/5.3.0/../../../../mingw32/bin/ld.exe: cannot open output file HEYOWRLD.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+18:32:30 Build Finished (took 755ms)
+

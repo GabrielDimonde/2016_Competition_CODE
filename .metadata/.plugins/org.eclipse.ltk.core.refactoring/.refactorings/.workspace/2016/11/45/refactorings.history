@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;2016 Competition Code&apos; to &apos;2016 Competition Code(First Alter)&apos;" description="Rename resource &apos;2016 Competition Code&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/2016 Competition Code" name="2016 Competition Code(First Alter)" stamp="1478147478373" updateReferences="true"/>
+</session>

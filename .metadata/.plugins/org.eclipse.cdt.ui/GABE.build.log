@@ -1,0 +1,6 @@
+17:23:02 **** Rebuild of configuration Debug for project GABE ****
+Info: Internal Builder is used for build
+cl /c /EHs /MD /Zi /nologo "/Fosrc\\GABE.obj" "..\\src\\GABE.cpp" 
+
+17:23:02 Build Finished (took 229ms)
+

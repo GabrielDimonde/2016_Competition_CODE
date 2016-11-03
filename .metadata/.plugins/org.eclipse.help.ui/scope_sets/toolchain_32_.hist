@@ -1,0 +1,4 @@
+#Tue Sep 06 18:55:09 PDT 2016
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=toolchain 

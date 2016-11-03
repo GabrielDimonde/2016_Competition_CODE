@@ -1,0 +1,27 @@
+//============================================================================
+// Name        : HEYOWRLD.cpp
+// Author      : GRAB
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#include <iostream>
+using namespace std;
+
+string greeting;
+string name;
+string null;
+int main()
+{
+	cout << "!!!HeLLo World!!!" <<;// prints !!!Hello World!!!
+	cout << "Please say hi back..." << ;
+	cout << "I'm lonely" << ;
+	cin >> greeting;
+    cout << "HELLOOOOO" << ;
+    cout << "Can you tell me your name?" <<;
+    cin >> name;
+    cout << "Hi," ,name, " OMG I've never met an actual person before." << ;
+    cout << "Please don't touch me anymore with your nasty hands" << ;
+    cin >> null;
+    return 0;
+}
