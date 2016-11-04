@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;2016 Competition Code/src/2016 Competition Version 1.cpp&apos; to &apos;2016 Competition Version 2(added energy to arm motors).cpp&apos;" description="Rename resource &apos;2016 Competition Version 1.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/2016 Competition Version 1.cpp" name="2016 Competition Version 2(added energy to arm motors).cpp" stamp="1478147327775" updateReferences="true"/>
+</session>

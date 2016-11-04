@@ -1,0 +1,7 @@
+20:55:26 **** Rebuild of configuration Debug for project 2016 Competition Code(First Alter) ****
+Info: Internal Builder is used for build
+arm-frc-linux-gnueabi-g++ -std=c++1y "-IC:\\wpilib\\cpp\\current\\include" "-IC:\\Users\\Gabriel\\workspace\\2016 Competition Code(First Alter)\\src" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2016 Competition Version 1.o" "..\\src\\2016 Competition Version 1.cpp" 
+arm-frc-linux-gnueabi-g++ "-LC:\\Users\\Gabriel/wpilib/cpp/current/lib" -Wl,-rpath,/opt/GenICam_v2_3/bin/Linux_armv7-a,-rpath,/usr/local/frc/rpath-lib -o FRCUserProgram "src\\2016 Competition Version 1.o" -lwpi 
+
+20:55:52 Build Finished (took 26s.104ms)
+

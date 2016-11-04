@@ -1,0 +1,7 @@
+18:25:34 **** Incremental Build of configuration Debug for project First drive code ever ****
+Info: Internal Builder is used for build
+arm-frc-linux-gnueabi-g++ -std=c++1y "-IC:\\Users\\Gabriel/wpilib/cpp/current/include" "-IC:\\Users\\Gabriel\\workspace\\First drive code ever\\src" -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\First drivr program.o" "..\\src\\First drivr program.cpp" 
+arm-frc-linux-gnueabi-g++ "-LC:\\Users\\Gabriel/wpilib/cpp/current/lib" -Wl,-rpath,/opt/GenICam_v2_3/bin/Linux_armv7-a,-rpath,/usr/local/frc/rpath-lib -o FRCUserProgram "src\\First drivr program.o" -lwpi 
+
+18:25:40 Build Finished (took 6s.451ms)
+
